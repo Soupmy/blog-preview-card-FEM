@@ -27,7 +27,7 @@ build the desktop version, then adapt it with a media querry for the mobile form
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Flex
 
 
 ### Useful resources
